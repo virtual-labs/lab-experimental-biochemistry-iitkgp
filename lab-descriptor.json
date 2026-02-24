@@ -19,7 +19,7 @@
     "deploy": true
   },
   {
-    "name": "Polymerase Chain Reaction (PCR) Experiment",
+    "name": "Polymerase Chain Reaction (PCR)",
     "short-name": "dna-pcr",
     "repo": "https://github.com/virtual-labs/exp-dna-pcr-iitkgp",
     "tag": "v1.0.1",
@@ -75,7 +75,7 @@
     "deploy": true
   },
   {
-    "name": "Surface Plasmon Resonance (SPR) Experiment",
+    "name": "Surface Plasmon Resonance (SPR)",
     "short-name": "surface-plasmon-resonance",
     "repo": "https://github.com/virtual-labs/exp-protein-ligand-spr-iitkgp",
     "tag": "v1.0.1",
