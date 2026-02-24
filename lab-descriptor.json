@@ -9,7 +9,7 @@
   "phase": "3-ext",
   "collegeName": "IITKGP",
   "baseUrl": "eb-iitkgp.vlabs.ac.in",
-  "introduction": "The Experimental Biochemistry lab is one of the virtual lab developed and designed to enhance teaching and learning by integrating biochemistry techniques into a virtual environment.<br><div align='center'><img src='./images/dcs.png'/></div><br><br> It is a complete hands-on experience that provides students a complete understanding of all the concepts and techniques using virtual instruments of Biochemistry laboratory. After these virtual lab experiments, students will be able to do experiments in real lab settings and will also be equipped to handle and realize many practical issues and how to troubleshoot them",
+  "introduction": "The Experimental Biochemistry lab is one of the virtual lab developed and designed to enhance teaching and learning by integrating biochemistry techniques into a virtual environment.<br><div align='center'><img src='./images/image.png'/></div><br><br> It is a complete hands-on experience that provides students a complete understanding of all the concepts and techniques using virtual instruments of Biochemistry laboratory. After these virtual lab experiments, students will be able to do experiments in real lab settings and will also be equipped to handle and realize many practical issues and how to troubleshoot them",
   "experiments":[
   {
     "name": "Basic Bioinformatics",
